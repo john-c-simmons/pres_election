@@ -43,12 +43,13 @@ OSEMN: Obtain, Scrub, Explore, Model, Interpret
 ![Feature Importance](images/Feature-Importance.png)
 
 ***
+### Typical Margin of Victory
+![Win Margin Distribution](images/Win-Margin-Distribution.png)
+
+***
 ### Counties the Model Predicted to Flip from 2016 to 2020
 ![Counties the Model Predicted to Flip from 2016 to 2020](images/Predicted-Flip.png)
 
-***
-### Typical Margin of Victory
-![Win Margin Distribution](images/Win-Margin-Distribution.png)
 
 ## Next Steps
 * Midterm election data may be collected and used on our same model.
