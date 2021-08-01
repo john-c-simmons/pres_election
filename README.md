@@ -1,4 +1,4 @@
-# Election Prediction through Logistic Regression
+# Election Prediction through Logistic Regression and Random Forest Classification
 ##### Authors: Will Cline, CeCe Lacey, John Carter Simmons
 ***
 ## Goals
